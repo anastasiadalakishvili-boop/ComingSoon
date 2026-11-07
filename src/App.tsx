@@ -79,10 +79,6 @@ export default function App() {
                 <strong>Care you can trust.</strong>
               </div>
             </div>
-            <div className="paw-stamp" aria-hidden="true">
-              <span>VERY GOOD</span>
-              <b>DOGS</b>
-            </div>
             <span className="orbit orbit-one" />
             <span className="orbit orbit-two" />
           </div>
