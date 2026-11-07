@@ -89,7 +89,7 @@ main {
   width: min(100% - 64px, 1440px);
   min-height: 660px;
   margin: auto;
-  padding-block: clamp(42px, 5.6vw, 82px);
+  padding-block: clamp(20px, 2.5vw, 36px) clamp(42px, 5.6vw, 82px);
   display: grid;
   grid-template-columns: minmax(480px, 0.91fr) minmax(500px, 1.09fr);
   align-items: center;
