@@ -1,0 +1,14 @@
+{
+  "title": "Hupy — Coming soon",
+  "description": "Hupy is bringing trusted pet care professionals, comfortable pet hotels, training services, and more together in one thoughtful place.",
+  "icons": {
+    "icon": "/brand/hupy-icon.png"
+  },
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

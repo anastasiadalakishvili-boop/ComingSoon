@@ -1,0 +1,6 @@
+# AgentPlat packages this default favicon directly from source without LFS hydration.
+favicon.png -filter -diff -merge -text
+# The coming-soon page's images are stored as regular files (not Git LFS pointers) so any host, such as
+# Vercel without Git LFS enabled, deploys the real images.
+brand/*.png -filter -diff -merge -text
+images/*.jpg -filter -diff -merge -text
